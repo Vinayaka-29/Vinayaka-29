@@ -10,6 +10,15 @@
 
 <br/>
 
+<!-- Snake Contribution Grid Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br/>
+
 <!-- Profile views & social badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Vinayaka-29&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayaka-j-01ab9a387)
@@ -19,7 +28,7 @@
 
 ---
 
-## 🚀 About Me
+## ðŸš€ About Me
 
 ```python
 class Vinayaka:
@@ -27,11 +36,11 @@ class Vinayaka:
         self.name        = "Vinayaka J"
         self.role        = "AIML Engineering Student"
         self.university  = "The National Institute of Engineering, Mysuru"
-        self.location    = "Mysuru, Karnataka, India 🇮🇳"
+        self.location    = "Mysuru, Karnataka, India ðŸ‡®ðŸ‡³"
         self.interests   = ["Artificial Intelligence", "Machine Learning",
                             "Full-Stack Dev", "Business", "Entrepreneurship"]
         self.vision      = "Build AI-powered products that solve real business problems"
-        self.superpower  = "Turning code into companies 💡"
+        self.superpower  = "Turning code into companies ðŸ’¡"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something great together.")
@@ -42,7 +51,7 @@ me.say_hi()
 
 ---
 
-## 💼 Entrepreneurship & Business Vision
+## ðŸ’¼ Entrepreneurship & Business Vision
 
 <div align="center">
 
@@ -50,19 +59,19 @@ me.say_hi()
 
 </div>
 
-🧠 I'm not just learning to **code** — I'm learning to **build companies.**
+ðŸ§  I'm not just learning to **code** â€” I'm learning to **build companies.**
 My goal is to bridge the gap between **AI/ML engineering** and **real-world business impact.**
 
-| 💡 What I Believe | 🎯 What I'm Building Toward |
+| ðŸ’¡ What I Believe | ðŸŽ¯ What I'm Building Toward |
 |---|---|
 | AI should solve real problems | AI-powered SaaS products |
 | Every engineer can be an entrepreneur | Tech startup in AI/automation |
 | Code is the new business language | Scalable, market-ready solutions |
-| Startups thrive on execution | MVP → Product → Scale |
+| Startups thrive on execution | MVP â†’ Product â†’ Scale |
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## ðŸ› ï¸ Tech Stack & Skills
 
 <div align="center">
 
@@ -72,43 +81,88 @@ My goal is to bridge the gap between **AI/ML engineering** and **real-world busi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### Backend & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Database
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PLpgSQL](https://img.shields.io/badge/PL%2FpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### Data & ML (Learning)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+## ðŸ“‚ Featured Projects
 
 <div align="center">
 
-### 🛒 E-Commerce Shop
-[![ecommerce-shop](https://github-readme-stats.vercel.app/api/pin/?username=Vinayaka-29&repo=ecommerce-shop&theme=tokyonight&border_color=00d9ff)](https://github.com/Vinayaka-29/ecommerce-shop)
+### ðŸŽ“ NIE-Class-Tracker â€” *Attendance & Schedule Tracker*
+[![NIE-Class-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Vinayaka-29&repo=NIE-Class-Tracker&theme=tokyonight&border_color=00d9ff)](https://github.com/Vinayaka-29/NIE-Class-Tracker)
 
-> Full-stack e-commerce platform built with Python — exploring the intersection of **retail business logic** and **web development**. A real-world business simulation in code.
+> A **PLpgSQL-powered class attendance and schedule tracker** built specifically for students at The National Institute of Engineering, Mysuru. Tracks attendance records and class schedules â€” helping students stay on top of their academic requirements through real database engineering.
+
+| | |
+|---|---|
+| ðŸ› ï¸ **Stack** | PLpgSQL Â· PostgreSQL |
+| ðŸ“¦ **Key Features** | Attendance Tracking Â· Schedule Management Â· NIE Student Focused |
 
 ---
 
-### 🤖 Simple Chatbot
+### ðŸš— Auto-Detailing-3D â€” *Auto Service Booking Platform*
+[![auto-detailing-3d](https://github-readme-stats.vercel.app/api/pin/?username=Vinayaka-29&repo=auto-detailing-3d&theme=tokyonight&border_color=00d9ff)](https://github.com/Vinayaka-29/auto-detailing-3d)
+
+> A **JavaScript-based auto service booking platform** â€” a real-world business web app where customers can browse and book car detailing & auto services. Demonstrates complete frontend business logic with an interactive, modern UI.
+
+| | |
+|---|---|
+| ðŸ› ï¸ **Stack** | JavaScript Â· HTML5 Â· CSS3 |
+| ðŸ“¦ **Key Features** | Service Booking Â· Interactive UI Â· Business-Ready Frontend |
+
+---
+
+### ðŸ›’ E-Commerce Shop â€” *Full Django Platform, Live on Render*
+[![ecommerce-shop](https://github-readme-stats.vercel.app/api/pin/?username=Vinayaka-29&repo=ecommerce-shop&theme=tokyonight&border_color=00d9ff)](https://github.com/Vinayaka-29/ecommerce-shop)
+
+> A production-ready **Django 4.x e-commerce platform** with product catalog, shopping cart, user authentication & full order management. Features Bootstrap 5 responsive frontend, PostgreSQL in production, admin panel, CSRF & XSS protection, and Stripe-ready checkout flow. Deployed live on **Render.com** with 161+ commits.
+
+| | |
+|---|---|
+| ðŸŒ **Live Demo** | [ecommerce-shop-1rr0.onrender.com](https://ecommerce-shop-1rr0.onrender.com) |
+| ðŸ› ï¸ **Stack** | Django Â· Python Â· PostgreSQL Â· SQLite Â· Bootstrap 5 Â· Render |
+| ðŸ“¦ **Key Features** | Product Catalog Â· Shopping Cart Â· User Auth Â· Order History Â· Admin Panel |
+
+---
+
+### ðŸ¤– Simple Chatbot â€” *Vanilla JS Conversational Interface*
 [![simple-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Vinayaka-29&repo=simple-chatbot&theme=tokyonight&border_color=00d9ff)](https://github.com/Vinayaka-29/simple-chatbot)
 
-> A JavaScript-based conversational AI chatbot — my first step toward building **intelligent, customer-facing AI products** for businesses.
+> A zero-dependency **pure JavaScript chatbot** deployed on GitHub Pages. Responds to greetings, questions, time queries and common phrases in real time â€” my first step toward building intelligent, customer-facing AI products for businesses.
+
+| | |
+|---|---|
+| ðŸŒ **Live Demo** | [vinayaka-29.github.io/simple-chatbot](https://vinayaka-29.github.io/simple-chatbot/) |
+| ðŸ› ï¸ **Stack** | JavaScript (ES6) Â· HTML5 Â· CSS3 |
+| ðŸ“¦ **Key Features** | Real-time Responses Â· No Dependencies Â· GitHub Pages Deployed |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <div align="center">
 
@@ -117,13 +171,14 @@ My goal is to bridge the gap between **AI/ML engineering** and **real-world busi
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vinayaka-29&theme=tokyonight&border=00d9ff&ring=00d9ff&fire=FF6B6B&currStreakLabel=00d9ff" height="170"/>
+<!-- âœ… 3rd Animation Fixed: Activity Graph replaces broken streak-stats -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayaka-29&theme=tokyo-night&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=false" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ðŸ† GitHub Trophies
 
 <div align="center">
 
@@ -133,50 +188,55 @@ My goal is to bridge the gap between **AI/ML engineering** and **real-world busi
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## ðŸŒ± Currently Learning & Exploring
 
 ```
-📚 Deep Learning & Neural Networks
-💼 Business Strategy & Startup Ecosystem
-🌐 Full-Stack Web Development (MERN/Python)
-📊 Data Science & Analytics
-🤝 Product Management & Go-To-Market Strategy
-💰 Entrepreneurship & Venture Building
-```
-
----
-
-## 🗺️ My Roadmap
-
-```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ✅  Started AIML Engineering @ NIE Mysuru
-  ✅  Built first E-Commerce project
-  ✅  Built first AI Chatbot
-
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🔄  Deep dive into ML/DL algorithms
-  🔄  Build AI-powered business tools
-  🔄  Launch first open-source product
-
-2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🎯  Intern at a startup or product company
-  🎯  Build & launch my first SaaS MVP
-  🎯  Grow network in startup ecosystem
-
-Future ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🌟  Found a tech startup at the AI × Business intersection
-  🌟  Create products that scale globally
+ðŸ“š Deep Learning & Neural Networks
+ðŸ’¼ Business Strategy & Startup Ecosystem
+ðŸŒ Full-Stack Web Development (Django / MERN)
+ðŸ“Š Data Science & Analytics
+ðŸ¤ Product Management & Go-To-Market Strategy
+ðŸ’° Entrepreneurship & Venture Building
+âš™ï¸  REST APIs & Microservices Architecture
+ðŸ—„ï¸  Advanced Database Engineering (PLpgSQL / PostgreSQL)
 ```
 
 ---
 
-## 💬 Let's Connect!
+## ðŸ—ºï¸ My Roadmap
+
+```
+2024 â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+  âœ…  Started AIML Engineering @ NIE Mysuru
+  âœ…  Built first Django E-Commerce platform (live on Render)
+  âœ…  Built first AI Chatbot (JavaScript)
+
+2025 â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+  âœ…  Built NIE-Class-Tracker (PLpgSQL attendance system)
+  âœ…  Built Auto-Detailing-3D (JS auto service booking platform)
+  ðŸ”„  Deep dive into ML/DL algorithms
+  ðŸ”„  Build AI-powered business tools
+  ðŸ”„  Add Stripe payment & product reviews to ecommerce-shop
+  ðŸ”„  Launch first open-source product
+
+2026 â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+  ðŸŽ¯  Intern at a startup or product company
+  ðŸŽ¯  Build & launch my first SaaS MVP
+  ðŸŽ¯  Grow network in startup ecosystem
+
+Future â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
+  ðŸŒŸ  Found a tech startup at the AI Ã— Business intersection
+  ðŸŒŸ  Create products that scale globally
+```
+
+---
+
+## ðŸ’¬ Let's Connect!
 
 <div align="center">
 
 I'm always open to:
-🤝 **Collaborations** | 💡 **Startup Ideas** | 📚 **Mentorship** | 🛠️ **Projects**
+ðŸ¤ **Collaborations** | ðŸ’¡ **Startup Ideas** | ðŸ“š **Mentorship** | ðŸ› ï¸ **Projects**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayaka-j-01ab9a387)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayaka-29)
@@ -193,5 +253,5 @@ I'm always open to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
-  <i>⭐ Star my repos if you find them interesting! Every star motivates me to build more. ⭐</i>
+  <i>â­ Star my repos if you find them interesting! Every star motivates me to build more. â­</i>
 </div>
