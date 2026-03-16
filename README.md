@@ -3,9 +3,9 @@
 <!-- Animated Sliding Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=VINAYAKA%20J&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AIML%20Engineer%20%7C%20Builder%20%7C%20Entrepreneur&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- Typing Animation â€” emojis safely encoded -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vinayaka+%F0%9F%91%8B;AIML+Engineering+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Future+Entrepreneur+%F0%9F%92%BC;Building+AI+%2B+Business+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Vinayaka+ðŸ‘‹;AIML+Engineering+Student+ðŸ¤–;Full-Stack+Developer+ðŸš€;Future+Entrepreneur+ðŸ’¼;Building+AI+%2B+Business+Solutions+ðŸŒŸ" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,11 +36,11 @@ class Vinayaka:
         self.name        = "Vinayaka J"
         self.role        = "AIML Engineering Student"
         self.university  = "The National Institute of Engineering, Mysuru"
-        self.location    = "Mysuru, Karnataka, India ðŸ‡®ðŸ‡³"
+        self.location    = "Mysuru, Karnataka, India"
         self.interests   = ["Artificial Intelligence", "Machine Learning",
                             "Full-Stack Dev", "Business", "Entrepreneurship"]
         self.vision      = "Build AI-powered products that solve real business problems"
-        self.superpower  = "Turning code into companies ðŸ’¡"
+        self.superpower  = "Turning code into companies"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something great together.")
@@ -125,7 +125,7 @@ My goal is to bridge the gap between **AI/ML engineering** and **real-world busi
 ### ðŸš— Auto-Detailing-3D â€” *Auto Service Booking Platform*
 [![auto-detailing-3d](https://github-readme-stats.vercel.app/api/pin/?username=Vinayaka-29&repo=auto-detailing-3d&theme=tokyonight&border_color=00d9ff)](https://github.com/Vinayaka-29/auto-detailing-3d)
 
-> A **JavaScript-based auto service booking platform** â€” a real-world business web app where customers can browse and book car detailing & auto services. Demonstrates complete frontend business logic with an interactive, modern UI.
+> A **JavaScript-based auto service booking platform** â€” a real-world business web app where customers can browse and book car detailing and auto services. Demonstrates complete frontend business logic with an interactive, modern UI.
 
 | | |
 |---|---|
@@ -137,7 +137,7 @@ My goal is to bridge the gap between **AI/ML engineering** and **real-world busi
 ### ðŸ›’ E-Commerce Shop â€” *Full Django Platform, Live on Render*
 [![ecommerce-shop](https://github-readme-stats.vercel.app/api/pin/?username=Vinayaka-29&repo=ecommerce-shop&theme=tokyonight&border_color=00d9ff)](https://github.com/Vinayaka-29/ecommerce-shop)
 
-> A production-ready **Django 4.x e-commerce platform** with product catalog, shopping cart, user authentication & full order management. Features Bootstrap 5 responsive frontend, PostgreSQL in production, admin panel, CSRF & XSS protection, and Stripe-ready checkout flow. Deployed live on **Render.com** with 161+ commits.
+> A production-ready **Django 4.x e-commerce platform** with product catalog, shopping cart, user authentication and full order management. Features Bootstrap 5 responsive frontend, PostgreSQL in production, admin panel, CSRF and XSS protection, and Stripe-ready checkout flow. Deployed live on **Render.com** with 161+ commits.
 
 | | |
 |---|---|
@@ -171,7 +171,7 @@ My goal is to bridge the gap between **AI/ML engineering** and **real-world busi
 
 <br/>
 
-<!-- âœ… 3rd Animation Fixed: Activity Graph replaces broken streak-stats -->
+<!-- 3rd Animation Fixed: Activity Graph replaces broken streak-stats -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayaka-29&theme=tokyo-night&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=false" width="100%"/>
 
 </div>
@@ -190,44 +190,44 @@ My goal is to bridge the gap between **AI/ML engineering** and **real-world busi
 
 ## ðŸŒ± Currently Learning & Exploring
 
-```
-ðŸ“š Deep Learning & Neural Networks
-ðŸ’¼ Business Strategy & Startup Ecosystem
-ðŸŒ Full-Stack Web Development (Django / MERN)
-ðŸ“Š Data Science & Analytics
-ðŸ¤ Product Management & Go-To-Market Strategy
-ðŸ’° Entrepreneurship & Venture Building
-âš™ï¸  REST APIs & Microservices Architecture
-ðŸ—„ï¸  Advanced Database Engineering (PLpgSQL / PostgreSQL)
-```
+- ðŸ“š Deep Learning & Neural Networks
+- ðŸ’¼ Business Strategy & Startup Ecosystem
+- ðŸŒ Full-Stack Web Development (Django / MERN)
+- ðŸ“Š Data Science & Analytics
+- ðŸ¤ Product Management & Go-To-Market Strategy
+- ðŸ’° Entrepreneurship & Venture Building
+- âš™ï¸ REST APIs & Microservices Architecture
+- ðŸ—„ï¸ Advanced Database Engineering (PLpgSQL / PostgreSQL)
 
 ---
 
 ## ðŸ—ºï¸ My Roadmap
 
-```
-2024 â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-  âœ…  Started AIML Engineering @ NIE Mysuru
-  âœ…  Built first Django E-Commerce platform (live on Render)
-  âœ…  Built first AI Chatbot (JavaScript)
+**2024**
 
-2025 â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-  âœ…  Built NIE-Class-Tracker (PLpgSQL attendance system)
-  âœ…  Built Auto-Detailing-3D (JS auto service booking platform)
-  ðŸ”„  Deep dive into ML/DL algorithms
-  ðŸ”„  Build AI-powered business tools
-  ðŸ”„  Add Stripe payment & product reviews to ecommerce-shop
-  ðŸ”„  Launch first open-source product
+- âœ… Started AIML Engineering @ NIE Mysuru
+- âœ… Built first Django E-Commerce platform (live on Render)
+- âœ… Built first AI Chatbot (JavaScript)
 
-2026 â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-  ðŸŽ¯  Intern at a startup or product company
-  ðŸŽ¯  Build & launch my first SaaS MVP
-  ðŸŽ¯  Grow network in startup ecosystem
+**2025**
 
-Future â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”
-  ðŸŒŸ  Found a tech startup at the AI Ã— Business intersection
-  ðŸŒŸ  Create products that scale globally
-```
+- âœ… Built NIE-Class-Tracker (PLpgSQL attendance system)
+- âœ… Built Auto-Detailing-3D (JS auto service booking platform)
+- ðŸ”„ Deep dive into ML/DL algorithms
+- ðŸ”„ Build AI-powered business tools
+- ðŸ”„ Add Stripe payment & product reviews to ecommerce-shop
+- ðŸ”„ Launch first open-source product
+
+**2026**
+
+- ðŸŽ¯ Intern at a startup or product company
+- ðŸŽ¯ Build & launch my first SaaS MVP
+- ðŸŽ¯ Grow network in startup ecosystem
+
+**Future**
+
+- ðŸŒŸ Found a tech startup at the AI x Business intersection
+- ðŸŒŸ Create products that scale globally
 
 ---
 
